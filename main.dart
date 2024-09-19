@@ -34,7 +34,7 @@ void main() {
   // booleans();
   var score = 85;
 
-  print('Nilai Anda: ${calculateScore(score)}');
+  print('Your grade => ${calculateScore(score)}');
 }
 
 void birthday(String name, int age) {
