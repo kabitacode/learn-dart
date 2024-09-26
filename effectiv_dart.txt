@@ -1,0 +1,21 @@
+Coding Convention is a guide that recommends programming styles, practices, and methods for every aspect of a program written in a particular language.
+The reasons why code convention is so important for programmers are:
+Most of the time in developing an application is spent on maintenance.
+It is very rare for a software to be maintained by its original author.
+Improve code readability and understand new code more quickly.
+So that the source code is more neatly and cleanly organized.
+The Effective Dart guide is divided into four parts according to its function, including:
+Style guide, defines the rules for placing and organizing code.
+Documentation guide, a guide related to how to provide comments or documentation on code.
+Usage guide, a guide related to how to best utilize language features to implement behavior.
+Design guide, a guide covering how to design a consistent and usable library API.
+Each guide will begin with these five keywords, including:
+DO, rules that must always be followed.
+DON'T, rules that are not good to apply.
+PREFER, rules that must be followed, but there are circumstances where it makes more sense to do otherwise.
+AVOID, rules that should be avoided or should not be done.
+CONSIDER, rules that can be followed or not followed, depending on the circumstances and preferences.
+There are many rules and guidelines related to Effective Dart, you can find all the rules at the following link: https://dart.dev/guides/language/effective-dart.
+Until this last module, hopefully you have understood the basic concepts of Dart well and are ready to develop applications with Flutter. If not, feel free to read and review the module again. Also, take advantage of the discussion forum to answer your questions.
+
+There is still a final exam that you need to complete in order to be declared to have passed and received a certificate in this class. Good luck!
