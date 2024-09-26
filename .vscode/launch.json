@@ -9,7 +9,7 @@
             "name": "Dart",
             "type": "dart",
             "request": "launch",
-            "program": "main.dart"
+            "program": "future/future.dart"
         },
         
         {
